@@ -5,14 +5,14 @@ Core product management skills for [Claude Code](https://claude.com/claude-code)
 ## Install
 
 ```bash
-claude plugin marketplace add JaiHanumanJaiRam/pm-essentials
+claude plugin marketplace add kawsuneel/pm-essentials
 claude plugin install pm-essentials
 ```
 
 Or from inside Claude Code:
 
 ```
-/plugin marketplace add JaiHanumanJaiRam/pm-essentials
+/plugin marketplace add kawsuneel/pm-essentials
 /plugin install pm-essentials
 ```
 

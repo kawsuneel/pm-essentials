@@ -4,7 +4,7 @@
   "description": "Core product management skills: PRDs, user stories, prioritization frameworks, competitive analysis, stakeholder updates, and a thinking-frameworks advisor.",
   "author": {
     "name": "Samvid",
-    "url": "https://github.com/JaiHanumanJaiRam"
+    "url": "https://github.com/kawsuneel"
   },
   "keywords": [
     "product-management",
@@ -14,6 +14,6 @@
     "competitive-analysis",
     "stakeholder-updates"
   ],
-  "homepage": "https://github.com/JaiHanumanJaiRam/pm-essentials",
+  "homepage": "https://github.com/kawsuneel/pm-essentials",
   "license": "MIT"
 }
